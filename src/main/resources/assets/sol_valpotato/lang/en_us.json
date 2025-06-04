@@ -1,0 +1,6 @@
+{
+  "config.sol_valpotato.food_slots": "Food Slots",
+  "config.sol_valpotato.disable_vanilla": "Disable Vanilla Food System",
+  "config.sol_valpotato.initial_health": "Initial health points reduced",
+  "tooltips.sol_valpotato.empty": "☠ Empty your stomach！"
+}
